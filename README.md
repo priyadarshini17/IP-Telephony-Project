@@ -1,3 +1,3 @@
 # IP-Telephony-Project
 
-I love  :Coffee:, :Pizza:.
+I love  Coffee, Pizza.
